@@ -1,6 +1,14 @@
 # Welcome to the HCI Lab!
 
-If you are not sure on where to start
-- Look at the list of [tasks](./Tasks.md)
-- Check out some of our [resources for conducting a research study](./resources/research_study.md)
-- Check out some of our [other resources](./resources/other.md)
+If you are not sure on where to start, visit our **official website** (https://cprnhl.com/hcilab) and read this document!
+
+## Purpose of this repository
+This repository aims to be a one-stop-shop for all the members of the lab, whether seasoned or new ones.
+
+## Content of the repository
+This repository contains:
+- The list of **[tasks you must complete](./tasks.md)** as you join the lab.
+- Many **[tutorials](./tutorials.md)** to learn the tools we use in the lab.
+- A series of **[useful resources for research studies](./resources/research_study.md)**.
+
+
