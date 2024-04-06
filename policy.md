@@ -27,8 +27,11 @@ Our lab is committed to creating an inclusive environment. Discrimination, haras
 ### 7. Academic freedom and sensitive topics
 Some research projects might involve sensitive topics such as religion, race, politics, sexuality, physical or mental health conditions. Provided that these topics should be discussed according to the principles outlined in this policy, if you feel uncomfortable being involved in conversations around these topics, please, share your suggestions or concerns with the lab supervisor or your instructor. If you want to report issues anonymously, please use the link to the form provided in this document.
 
-### 8. Feedback
+### 8. Ghosting the lab
+Things can happen in life. So, if a member doesn't reach out, doesn't follow-up, or doesn't participate in activities for more than one month without a reasonable motivation, the member will be removed from the lab. This is not to punish the person, but it's to keep the lab organized. A member removed from the lab can be re-added to the lab by reaching out and explaining what happened.
+
+### 9. Feedback
 Your input is valuable in improving the lab experience. Please share your suggestions or concerns with the lab supervisor or your instructor. If you want to report issues anonymously, please use the link to the form provided in this document.
 
-### 9. Reporting issues anonymously
+### 10. Reporting issues anonymously
 If you experience an issue, use the following form to report it anonymously: https://forms.gle/nqk5qyyw1yuc1MGA8
