@@ -1,5 +1,5 @@
 # Tasks
-As soon as you join the HCI lab, you will be asked to complete the following tasks:
+As soon as you join the HCI lab, you will be asked to complete the following tasks, which are useful anyway, whether you are joining the lab or not.
 1. [Complete **IRB** training](#complete-irb-training)
 1. [Create **LinkedIn** profile](#linkedin)
 1. [Create **GitHub** account](#github)
@@ -7,7 +7,7 @@ As soon as you join the HCI lab, you will be asked to complete the following tas
 1. [Create profile on **Google Scholar**](#google-scholar)
 1. [Create your **ORCID** ID](#orcid)
 
-When you have completed all the tasks, **fill out the form at the following link** (https://forms.gle/U9ySzBNMAP9VnyT2A)
+When you have completed all the tasks, **fill out the form at the following link** (https://forms.gle/n2msr57cpkCKDJ9G6)
 
 ---
 ## Complete IRB training (1 hour)
