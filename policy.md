@@ -25,7 +25,7 @@ Please leave the lab as or, possibly, better than how you found it. This include
 Our lab is committed to creating an inclusive environment. Discrimination, harassment, or any form of disrespect will not be tolerated. Report any concerns or incidents to lab staff or faculty immediately.
 
 ### 7. Academic freedom and sensitive topics
-Some research projects might involve sensitive topics such as religion, race, politics, sexuality, physical or mental health conditions. Provided that these topics will be discussed according to the principles outlined in this policy, if you feel uncomfortable being involved in conversations around these topics, please, share your suggestions or concerns with the lab supervisor or your instructor. If you want to report issues anonymously, please use the link to the form provided in this document.
+Some research projects might involve sensitive topics such as religion, race, politics, sexuality, physical or mental health conditions. Provided that these topics should be discussed according to the principles outlined in this policy, if you feel uncomfortable being involved in conversations around these topics, please, share your suggestions or concerns with the lab supervisor or your instructor. If you want to report issues anonymously, please use the link to the form provided in this document.
 
 ### 8. Feedback
 Your input is valuable in improving the lab experience. Please share your suggestions or concerns with the lab supervisor or your instructor. If you want to report issues anonymously, please use the link to the form provided in this document.
