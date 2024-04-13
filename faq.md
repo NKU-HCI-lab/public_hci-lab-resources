@@ -9,7 +9,7 @@ Let's clarify a couple of things first.
 
 Most undergraduate research (at NKU and elsewhere) is not compensated financially. In fact, typically students join research projects as an additional activity (like a student organization, you invest your time in something you enjoy doing and can gratify you professionally). In return, you gain invaluable expertise that can be spent when searching for a job, interviewing for a position, or applying for Master's and Ph.D. programs. For full disclosure, research advisors and PIs (professors) are not required to involve students in research: if they do it, they do it as an investment in students and research projects.
 
-You can combine research with coursework by enrolling in a 0-3 credit-hour repeatable course (charged by NKU based on standard credit-hour tuition if the student exceeds 16 credit-hours) that usually count towards electives or experiential learning. If you want to do so, you can talk with your PI and academic advisor.
+There are other ways to get credit such as by [getting course credit](#getting-course-credit)
 
 ### Where can I find financial support for research?
 NKU provides paid opportunities such as UR-STEM or the ISRCA project award. These are very competitive but definitely worth applying for. Also, you can apply for Fellowships and scholarships that support research endeavors financially. People in the HCI lab will be happy to support your applications. 
@@ -22,3 +22,6 @@ You should not expect any compensation, especially if it is the first time you a
 In addition to working on research projects, some research advisors spend time trying to find financial support for their projects (e.g., equipment, students, other resources). As a result, some research  advisors and projects might have some student funding available. Student funding is commensurate to the student experience and involvement. Feel free to ask whether there is any funding available for you, because it might be the case! On the other hand, there could be the case in which the funds for a research project end and the HCI lab might not be able to continue funding a student who joined a research project.
 
 Regardless of compensation, your involvement in projects (i.e., tasks, expected time commitment, ...) will be commensurate with your expectations in terms of return of your investment. This is completely negotiable and based on your goals and outcomes.
+
+### Getting course credit
+You can combine research with coursework by enrolling in a 0-3 credit-hour repeatable course (e.g., ASE/CSC/DSC/CIT 292/392) that usually counts towards electives or experiential learning. If the student exceeds 16 credit hours, NKU charges the course based on standard credit-hour tuition. If you want to take advantage of this opportunity, you can talk with your PI and academic advisor.
