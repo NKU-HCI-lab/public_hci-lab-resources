@@ -2,6 +2,8 @@
 
 If you are not sure on where to start, visit our **official website** (https://cprnhl.com/hcilab) and read this document!
 
+By the way, we also have a [YouTube channel](https://www.youtube.com/@NKU-HCIlab) where we publish videos about our research.
+
 ---
 ## Purpose of this repository
 This repository aims to be a one-stop-shop for all the members of the lab, whether seasoned or new ones.
