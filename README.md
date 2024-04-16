@@ -1,8 +1,8 @@
 # Welcome to the HCI Lab!
 
-If you are not sure on where to start, visit our [**official website**](https://cprnhl.com/hcilab) and read this document!
+If you are not sure on where to start, visit our [**official website**](https://cprnhl.com/hcilab) (https://cprnhl.com/hcilab) and read this document!
 
-By the way, we also have a [**YouTube channel**](https://www.youtube.com/@NKU-HCIlab) where we publish videos about our research.
+By the way, we also have a [**YouTube channel**](https://www.youtube.com/@NKU-HCIlab) (https://www.youtube.com/@NKU-HCIlab) where we publish videos about our research.
 
 ---
 ## Purpose of this repository
