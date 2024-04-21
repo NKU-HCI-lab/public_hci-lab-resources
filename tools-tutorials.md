@@ -18,6 +18,8 @@ We will use GIT and GitHub for managing most of our projects. This involves proj
 
 [![GitHub crash course](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSWYqp7iY_Tc)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
+https://dev.to/glasskube/the-guide-to-git-i-never-had-1450
+
 ### GitHub projects
 GitHub projects is basically a project management system. We will use GitHub projects to track progress in the various projects. You don't need to be a coder to use GitHub projects.
 
