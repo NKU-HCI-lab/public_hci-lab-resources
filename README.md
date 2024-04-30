@@ -14,6 +14,9 @@ This repository contains:
 - A little **[policy](./policy.md)** to help us all thrive together
 - Answers to **[Frequently Asked Questions](./faq.md)** that you might have
 
+
+We also have a [private repository](https://github.com/NKU-HCI-lab/restricted_hci-lab-resources) full of additional resources that you can access after becoming a member of the lab.
+
 ---
 ## Joining the HCI lab
 
