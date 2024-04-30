@@ -42,7 +42,7 @@ To complete this task:
 1. Visit https://help.researchgate.net/hc/en-us/articles/14292598334993-Signing-up-for-ResearchGate
 2. Connect with the other members of our lab (https://cprnhl.com/hcilab)
 
-### Google Scholar
+### Google Scholar (2 minutes - only work on this if you have a paper published)
 Google Scholar is a web search engine that focuses on indexing scholarly literature, including articles, theses, books, preprints, and court opinions from various disciplines. It allows users to search for and access academic content, as well as create a public profile showcasing their publications and citations. Google Scholar helps researchers track their citation counts, find related articles, and stay up-to-date with the latest research in their field, making it an essential tool for academics and students alike.
 
 To complete this task:

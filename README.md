@@ -1,6 +1,6 @@
 # Welcome to the HCI Lab!
 
-If you are not sure on where to start, visit our [**official website**](https://cprnhl.com/hcilab) (https://cprnhl.com/hcilab) and read this document!
+If you are not sure where to start, visit our [**official website**](https://cprnhl.com/hcilab) (https://cprnhl.com/hcilab) and read this document!
 
 By the way, we also have a [**YouTube channel**](https://www.youtube.com/@NKU-HCIlab) (https://www.youtube.com/@NKU-HCIlab) where we publish videos about our research.
 
@@ -13,9 +13,6 @@ This repository contains:
 - The list of **[tasks you must complete](./tasks.md)** as you join the lab
 - A little **[policy](./policy.md)** to help us all thrive together
 - Answers to **[Frequently Asked Questions](./faq.md)** that you might have
-- Many **[tools and tutorials](./tools-tutorials.md)** to learn the tools we use in the lab
-- A series of **[useful resources for research studies](./resources/research_study.md)**
-- Communication **[materials and templates](./communication.md)** to share our research outside the lab
 
 ---
 ## Joining the HCI lab
@@ -42,7 +39,7 @@ Each member of the lab will be asked to spend approximately a minimum of 5 hours
 
 ---
 ## Working in teams
-Teams are groups of people working on projects. The HCI lab hosts several teams each working on a different project. Usually, each member of the lab is assigned to a team based on the project they want to work on.
+Teams are groups of people working on projects. The HCI lab hosts several teams, each working on a different project. Usually, each member of the lab is assigned to a team based on the project they want to work on.
 
 Some team members might be asked to work with multiple teams based on their skills. For instance, if a member is great at Python and one team needs some Python experience quickly, the member will be assigned to that team.
 
