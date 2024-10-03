@@ -7,7 +7,7 @@ As soon as you join the HCI lab, you will be asked to complete the following tas
 1. [Create profile on **Google Scholar**](#google-scholar)
 1. [Create your **ORCID** ID](#orcid)
 
-When you have completed all the tasks, **fill out the form at the following link** ([https://forms.gle/n2msr57cpkCKDJ9G6](https://forms.gle/r4vgHKbCYU5H8gpa6))
+When you have completed all the tasks, **fill out the form at the following link** ([https://forms.office.com/r/xT9tW1iZkF]([https://forms.gle/r4vgHKbCYU5H8gpa6](https://forms.office.com/r/xT9tW1iZkF)))
 
 ---
 ## Complete IRB training (1 hour)
