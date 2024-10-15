@@ -4,8 +4,8 @@ As soon as you join the HCI lab, you will be asked to complete the following tas
 1. [Create **LinkedIn** profile](#linkedin)
 1. [Create **GitHub** account](#github)
 1. [Create account on **ResearchGate**](#researchgate)
-1. [Create profile on **Google Scholar**](#google-scholar)
-1. [Create your **ORCID** ID](#orcid)
+1. [Create profile on **Google Scholar**](#google-scholar) - not required if you haven't published any article yet
+1. [Create your **ORCID** ID](#orcid) - not required if you haven't published any article yet
 
 When you have completed all the tasks, **fill out the form at the following link** ([https://forms.office.com/r/xT9tW1iZkF](https://forms.office.com/r/xT9tW1iZkF))
 
