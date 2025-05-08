@@ -27,10 +27,11 @@ We also have a [private repository](https://github.com/NKU-HCI-lab/restricted_hc
 
 ### Working in the lab
 As you will join the lab, you will be:
-1. Asked to complete a series of [tasks](./tasks.md)
-2. Assigned to a [team working on a project](#teamwork) (based on your interests)
-3. Help your team in [working on projects](#working-on-projects)
-4. [Celebrate and promote](#celebrating-accomplishments) everybody's accomplishments
+1. Enroll in a research/independent study course (0-3 credits)
+2. Asked to complete a series of [tasks](./tasks.md)
+3. Assigned to a [team working on a project](#teamwork) (based on your interests)
+4. Help your team in [working on projects](#working-on-projects)
+5. [Celebrate and promote](#celebrating-accomplishments) everybody's accomplishments
 
 ### Commitment
 Each member of the lab will be asked to spend approximately a minimum of 5 hours on tasks. Your commitment will be as follows:
