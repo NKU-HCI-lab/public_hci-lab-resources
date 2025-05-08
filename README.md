@@ -35,10 +35,11 @@ As you will join the lab, you will be:
 ### Commitment
 Each member of the lab will be asked to spend approximately a minimum of 5 hours on tasks. Your commitment will be as follows:
 - Every two weeks
-  - Attend the HCI lab meeting (30-60 minutes) 
+  - Attend the HCI lab meeting (30-60 minutes), where applicable 
 - Every week
   - Attend the team meeting (1-2 hours)
   - Work on your tasks (minimum: 3 hours)
+  - Write and send me a report of your activity (a bullet-point list of the tasks you worked on - more on this in the private repository accessible to the members of the HCI lab only)
 
 ---
 ## Working in teams
